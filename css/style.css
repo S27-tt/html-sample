@@ -24,7 +24,7 @@ header {
     color: #777;
 }
 
-.header-navigation{
+.header-navigation {
     width: 100%;
     background-color: #fff;
     padding: 20px 0;
@@ -37,7 +37,7 @@ header {
     list-style-type: none;
 }
 
-.header-navigation li a{
+.header-navigation li a {
     color: #333;
     text-decoration: none;
 }
@@ -85,7 +85,7 @@ aside {
     padding-left: 0;
 }
 
-.information-list li{
+.information-list li {
     margin-bottom: 10px;
 }
 
@@ -96,7 +96,7 @@ aside {
 }
 
 .staff:last-child {
-    margin-right: 0; 
+    margin-right: 0;
 }
 
 .staff-image {
